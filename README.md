@@ -59,7 +59,11 @@ const snow = {
 
 ## Featured Builds ❤️
 
-<p align="center"><sub>3 most recent — cards rendered from READMEs (not a template)</sub></p>
+<p align="center">
+  <a href="https://github.com/Icedmist/device-beacon" title="device-beacon — flagship"><picture><source media="(prefers-color-scheme: dark)" srcset="https://cocoindex.io/blobs/github/homepage/cocoindex-code-hero-dark.svg"><source media="(prefers-color-scheme: light)" srcset="https://cocoindex.io/blobs/github/homepage/cocoindex-code-hero-light.svg"><img src="https://cocoindex.io/blobs/github/homepage/cocoindex-code-hero-light.svg" alt="Featured — device-beacon flagship — animated hero, AST-aware, live. Repurposed for personal flagship." width="100%"/></picture></a>
+</p>
+
+<p align="center"><sub>3 most recent — pin cards + table from READMEs (animated hero above)</sub></p>
 
 <p align="center">
   <a href="https://github.com/Icedmist/device-beacon"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Icedmist&repo=device-beacon&theme=transparent&hide_border=true&show_owner=true" alt="device-beacon pin"/></a>
@@ -100,14 +104,21 @@ const snow = {
 
 ## How I Build
 
-```mermaid
-flowchart LR
-  A[Idea / Problem] --> B[Design]
-  B --> C[Build]
-  C --> D[Ship — the Δ]
-  D --> E[Observe]
-  E --> A
-```
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://cocoindex.io/blobs/github/homepage/react4de-hero-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://cocoindex.io/blobs/github/homepage/react4de-hero-light.svg">
+    <img src="https://cocoindex.io/blobs/github/homepage/react4de-hero-light.svg" alt="How I build — Target = F(Idea). Declare the desired state, the system keeps it fresh. Your code stays simple — the engine handles the Δ." width="100%"/>
+  </picture>
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://cocoindex.io/blobs/github/homepage/either-side-change-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://cocoindex.io/blobs/github/homepage/either-side-change-light.svg">
+    <img src="https://cocoindex.io/blobs/github/homepage/either-side-change-light.svg" alt="What happens when either side changes — I track provenance so only the Δ propagates. Source change or code change, only affected dots re-run." width="100%"/>
+  </picture>
+</p>
 
 <p align="center"><sub><b>Target = F(Idea)</b> — declare the desired state, the system keeps it fresh. I ship the delta, not the whole.</sub></p>
 
@@ -126,6 +137,14 @@ flowchart LR
 ## Stack — for long-horizon products
 
 <p align="center"><sub>8 core tools → engine → 6 targets</sub></p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://cocoindex.io/blobs/github/homepage/incremental-engine-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://cocoindex.io/blobs/github/homepage/incremental-engine-light.svg">
+    <img src="https://cocoindex.io/blobs/github/homepage/incremental-engine-light.svg" alt="Stack engine — 8 source lanes through an incremental engine to 6 targets. Only the Δ is reprocessed — animated." width="100%"/>
+  </picture>
+</p>
 
 <p align="center">
   <a href="https://github.com/Icedmist?tab=repositories&q=&type=&language=python"><img src="https://skillicons.dev/icons?i=py" width="48" alt="Python"/></a>
@@ -170,6 +189,14 @@ flowchart LR
 ---
 
 ## Why this way?
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://cocoindex.io/blobs/github/homepage/why-incremental-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://cocoindex.io/blobs/github/homepage/why-incremental-dark.svg">
+    <img src="https://cocoindex.io/blobs/github/homepage/why-incremental-dark.svg" alt="Why this way? Sub-second iteration, 10× cheaper, explainable, production-grade — animated." width="100%"/>
+  </picture>
+</p>
 
 |  | Principle |  |
 |---|---|---|
@@ -239,17 +266,19 @@ flowchart LR
 </table>
 
 <p align="center">
-  <a href="https://github.com/Icedmist"><img src="https://img.shields.io/badge/GitHub-@Icedmist-24292f?logo=github&style=for-the-badge" alt="GitHub"/></a>
-  <a href="https://www.linkedin.com/in/nasir-ibrahim-imam-403ba523b"><img src="https://img.shields.io/badge/LinkedIn-Nasir-0A66C2?logo=linkedin&style=for-the-badge" alt="LinkedIn"/></a>
-  <a href="https://orcid.org/0009-0003-9321-2853"><img src="https://img.shields.io/badge/ORCID-A6CE39?logo=orcid&style=for-the-badge" alt="ORCID"/></a>
-  <a href="https://Facebook.com/icedmist"><img src="https://img.shields.io/badge/Facebook-icedmist-1877F2?logo=facebook&style=for-the-badge" alt="Facebook"/></a>
+  <a href="https://github.com/Icedmist"><img src="https://img.shields.io/badge/GITHUB-%40ICEDMIST-16A534?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" alt="GITHUB @ICEDMIST green"/></a>
+  <a href="https://www.linkedin.com/in/nasir-ibrahim-imam-403ba523b"><img src="https://img.shields.io/badge/LINKEDIN-NASIR-0e75b6?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117" alt="LINKEDIN NASIR blue"/></a>
+  <a href="https://orcid.org/0009-0003-9321-2853"><img src="https://img.shields.io/badge/ORCID-0009--0003--9321--2853-16A534?style=for-the-badge&logo=orcid&logoColor=white&labelColor=0d1117" alt="ORCID green"/></a>
+  <a href="https://Facebook.com/icedmist"><img src="https://img.shields.io/badge/FACEBOOK-ICEDMIST-0e75b6?style=for-the-badge&logo=facebook&logoColor=white&labelColor=0d1117" alt="FACEBOOK blue"/></a>
 </p>
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:16A534,100:0e75b6&height=2&animation=scaleIn" width="100%" alt="green-blue divider — same as top cards"/>
+
 <p align="center">
-  <a href="https://github.com/Icedmist"><img src="https://github-readme-stats.vercel.app/api?username=Icedmist&show_icons=true&theme=transparent&hide_border=true" height="160" alt="stats"/></a>
-  <a href="https://github.com/Icedmist"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Icedmist&layout=compact&theme=transparent&hide_border=true" height="160" alt="langs"/></a>
+  <a href="https://github.com/Icedmist"><img src="https://github-readme-stats.vercel.app/api?username=Icedmist&show_icons=true&theme=transparent&hide_border=true&title_color=16A534&text_color=0e75b6&icon_color=16A534&bg_color=0d1117&hide_border=true&border_radius=12" height="160" alt="stats — green-blue on dark"/></a>
+  <a href="https://github.com/Icedmist"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Icedmist&layout=compact&theme=transparent&hide_border=true&title_color=16A534&text_color=0e75b6&bg_color=0d1117&hide_border=true&border_radius=12" height="160" alt="langs — green-blue on dark"/></a>
 </p>
-<p align="center"><img src="https://streak-stats.demolab.com?user=Icedmist&theme=transparent&hide_border=true" width="70%" alt="streak"/></p>
+<p align="center"><img src="https://streak-stats.demolab.com?user=Icedmist&theme=transparent&hide_border=true&background=0d1117&currStreakNum=16A534&sideNums=0e75b6&currStreakLabel=16A534&sideLabels=0e75b6&dates=8b949e&border=30363d" width="70%" alt="streak — green/blue on dark"/></p>
 
 <p align="center">
   <picture>
