@@ -1,300 +1,43 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:16A534,50:0e75b6,100:16A534&height=240&section=header&text=Snow❄️%20Icedmist&fontSize=44&fontColor=fff&animation=fadeIn&desc=AI%20•%20Cloud%20•%20Automation&descAlignY=75&descSize=17&fontAlignY=38" width="100%" alt="Snow header — green-blue waving"/>
+![Profile hero](./assets/profile-hero.svg)
 
-<h1 align="center">Snow❄️ Icedmist</h1>
+![Animated typing introduction](https://readme-typing-svg.demolab.com?font=DM+Mono&size=20&duration=3200&pause=900&color=F26938&center=false&vCenter=true&width=700&lines=I%20make%20thoughtful%20tools%20for%20noisy%20problems.)
 
-<p align="center">
-  <a href="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=16A534&center=true&vCenter=true&width=620&lines=The+Vendetta+of+a+Gentleman+Leaves+no+Man+Standing">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=16A534&center=true&vCenter=true&width=620&lines=The+Vendetta+of+a+Gentleman+Leaves+no+Man+Standing" alt="Typing — green motto" />
-  </a>
-</p>
-<p align="center">
-  <a href="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1000&color=0e75b6&center=true&vCenter=true&width=620&lines=Building+reliable+systems+that+stay+fresh;AI+Cloud+Automation+-+TS+Python+Dart">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1000&color=0e75b6&center=true&vCenter=true&width=620&lines=Building+reliable+systems+that+stay+fresh;AI+Cloud+Automation+-+TS+Python+Dart" alt="Typing — blue stack" />
-  </a>
-</p>
+# Hey, I'm Maya Okafor 👋
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:16A534,100:0e75b6&height=3&section=header&animation=scaleIn" width="100%" alt="green-blue divider"/>
+> I make thoughtful tools for noisy problems.
 
-<p align="center">
-  <a href="https://github.com/Icedmist"><img src="https://img.shields.io/badge/GitHub-@Icedmist-24292f?style=for-the-badge&logo=github" alt="GitHub"/></a>
-  <a href="https://www.linkedin.com/in/nasir-ibrahim-imam-403ba523b"><img src="https://img.shields.io/badge/LinkedIn-Nasir-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/></a>
-  <a href="https://orcid.org/0009-0003-9321-2853"><img src="https://img.shields.io/badge/ORCID-0009--0003--9321--2853-A6CE39?style=for-the-badge&logo=orcid" alt="ORCID"/></a>
-  <a href="mailto:talk2icedmist@gmail.com"><img src="https://img.shields.io/badge/Email-talk2icedmist-D14836?style=for-the-badge&logo=gmail" alt="Email"/></a>
-</p>
+Product engineer exploring the space between useful software, good questions, and a little bit of magic.
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Icedmist&style=flat-square&label=profile+views&color=0e75b6" alt="views"/>
-  <img src="https://img.shields.io/github/followers/Icedmist?style=flat-square&label=followers&color=0969da" alt="followers"/>
-  <img src="https://img.shields.io/github/stars/Icedmist?style=flat-square&label=stars&color=FB6A76" alt="stars"/>
-  <img src="https://img.shields.io/badge/repos-39-16A534?style=flat-square" alt="repos"/>
-</p>
+📍 Lagos, Nigeria · [GitHub](https://github.com/maya-builds)
 
-<p align="center">I turn ideas into <b>reliable, incremental</b> products — from device telemetry and hospital systems to store OS and learning platforms. Parallel by default, declarative by design.</p>
+![Visual process divider](./assets/process-flow.svg)
 
----
+## A few signals
 
-### ● snow@icedmist — zsh — 80×24
+![GitHub signals](./assets/github-signals.svg)
 
-<p align="center">
-  <picture><source media="(prefers-color-scheme: dark)" srcset="whoami-dark.svg"><source media="(prefers-color-scheme: light)" srcset="whoami-light.svg"><img src="whoami-dark.svg" width="100%" alt="snow@icedmist — zsh — animated terminal: avatar + whoami code (fastfetch/chafa/silicon) — green/blue"/></picture>
-</p>
+## Things I'm building
 
-<p align="center">
-  <picture><source media="(prefers-color-scheme: dark)" srcset="linux-tools-dark.svg"><source media="(prefers-color-scheme: light)" srcset="linux-tools-light.svg"><img src="linux-tools-dark.svg" width="100%" alt="Linux tools — icons: fastfetch · neofetch · chafa · viu · catimg · silicon · carbon · onefetch — animated green/blue"/></picture>
-</p>
-<p align="center"><sub><code>fastfetch</code> / <code>neofetch</code> + <code>chafa</code> / <code>viu</code> / <code>catimg</code> for ASCII · <code>silicon</code> / <code>carbon.now.sh</code> for code-window PNGs · <code>onefetch</code> for repo ASCII</sub></p>
+![Visual project showcase](./assets/projects-showcase.svg)
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0e75b6,100:16A534&height=2&section=header&animation=scaleIn" width="100%" alt="divider"/>
+### 1. signal-garden
 
----
+A tiny observability layer for calm, useful software.
 
-## Featured Builds ❤️
+**TypeScript · Next.js**
 
-<p align="center">
-  <picture><source media="(prefers-color-scheme: dark)" srcset="featured-hero-dark.svg"><source media="(prefers-color-scheme: light)" srcset="featured-hero-light.svg"><img src="featured-hero-dark.svg" width="100%" alt="Featured Builds — animated hero: your repos → avatar glow → fresh builds — device-beacon · nexafinal · Evergreeners — green/blue pulse, Δ arrows"/></picture>
-</p>
+### 2. field-notes
 
-<p align="center"><sub>Your 3 flagships — file tree → avatar glow → fresh builds. <b>Animated SVG</b> — pulsing glow, live dots, Δ arrows inspired by your repos (not just text).</sub></p>
+A searchable notebook for ideas that want to become real.
 
-<p align="center">
-  <a href="https://github.com/Icedmist/device-beacon"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Icedmist&repo=device-beacon&theme=transparent&hide_border=true&show_owner=true" alt="device-beacon pin"/></a>
-  <a href="https://github.com/Icedmist/nexafinal"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Icedmist&repo=nexafinal&theme=transparent&hide_border=true&show_owner=true" alt="nexafinal pin"/></a>
-</p>
-<p align="center">
-  <a href="https://github.com/Icedmist/Evergreeners-web"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Icedmist&repo=Evergreeners-web&theme=transparent&hide_border=true&show_owner=true" alt="Evergreeners-web pin"/></a>
-</p>
+**Python · SQLite**
 
-<table align="center">
-<tr>
-<td align="center" width="33%">
+## Contribution trail
 
-**device-beacon**<br/>
-<sub>🛰️ Street-level Wi-Fi BSSID → Apple DB + OSM (~50m), battery telemetry, anti-theft, Telegram bot. Python, zero-dep, runs on Pis/laptops.</sub>
+![Animated contribution snake](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg)
 
-</td>
-<td align="center" width="33%">
+## Find me
 
-**nexafinal — Nexa Store OS**<br/>
-<sub>React 19 · Vite 7 · Tailwind 4 · Firebase. Offline-first POS, multi-branch inventory, Paystack virtual accounts, CRM + RBAC. TypeScript.</sub>
+[GitHub](https://github.com/maya-builds) · [LinkedIn](https://linkedin.com/in/maya-builds) · hello@example.com
 
-</td>
-<td align="center" width="33%">
-
-**Evergreeners**<br/>
-<sub>Digital garden — heatmap + streak tracking, Better Auth + Drizzle + Postgres + Fastify. Dark Tailwind, habit compounding.</sub>
-
-</td>
-</tr>
-</table>
-
-<p align="center"><a href="https://github.com/Icedmist?tab=repositories"><b>See all 39 repos →</b></a></p>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:16A534,100:0e75b6&height=2&animation=fadeIn" width="100%" alt="divider"/>
-
----
-
-## How I Build
-
-<p align="center">
-  <picture><source media="(prefers-color-scheme: dark)" srcset="how-build-hero-dark.svg"><source media="(prefers-color-scheme: light)" srcset="how-build-hero-light.svg"><img src="how-build-hero-dark.svg" width="100%" alt="How I Build — Target = F(Idea) — sources → F() → target dots, animated — green/blue"/></picture>
-</p>
-
-<p align="center">
-  <picture><source media="(prefers-color-scheme: dark)" srcset="either-side-change-dark.svg"><source media="(prefers-color-scheme: light)" srcset="either-side-change-light.svg"><img src="either-side-change-dark.svg" width="100%" alt="What happens when either side changes — source change vs code change — Δ propagates, animated pulses"/></picture>
-</p>
-
-<p align="center"><sub><b>Target = F(Idea)</b> — declare the desired state, the system keeps it fresh. I ship the delta, not the whole.</sub></p>
-
-<p align="center">
-  <picture><source media="(prefers-color-scheme: dark)" srcset="how-steps-dark.svg"><source media="(prefers-color-scheme: light)" srcset="how-steps-light.svg"><img src="how-steps-dark.svg" width="100%" alt="How I Build — 5 steps animated — Discover → Design → Build → Ship Δ → Observe — explainable simple"/></picture>
-</p>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:16A534,100:0e75b6&height=2&animation=scaleIn" width="100%" alt="divider"/>
-
----
-
-## Stack — for long-horizon products
-
-<p align="center"><sub>8 core tools → engine → 6 targets</sub></p>
-
-<p align="center">
-  <picture><source media="(prefers-color-scheme: dark)" srcset="stack-engine-dark.svg"><source media="(prefers-color-scheme: light)" srcset="stack-engine-light.svg"><img src="stack-engine-dark.svg" width="100%" alt="Stack engine — 8 sources → your flow → engine → 6 targets — only Δ reprocessed — animated green/blue"/></picture>
-</p>
-
-<p align="center">
-  <a href="https://github.com/Icedmist?tab=repositories&q=&type=&language=python"><img src="https://skillicons.dev/icons?i=py" width="48" alt="Python"/></a>
-  <img src="https://skillicons.dev/icons?i=ts" width="48" alt="TS"/>
-  <img src="https://skillicons.dev/icons?i=js" width="48" alt="JS"/>
-  <img src="https://skillicons.dev/icons?i=react" width="48" alt="React"/>
-  <img src="https://skillicons.dev/icons?i=nextjs" width="48" alt="Next.js"/>
-  <img src="https://skillicons.dev/icons?i=tailwind" width="48" alt="Tailwind"/>
-  <img src="https://skillicons.dev/icons?i=dart" width="48" alt="Dart"/>
-  <img src="https://skillicons.dev/icons?i=flutter" width="48" alt="Flutter"/>
-  <br/><sub>Python • TypeScript • JavaScript • React • Next.js • Tailwind • Dart • Flutter</sub>
-</p>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs" width="48" alt="Node"/>
-  <img src="https://skillicons.dev/icons?i=fastapi" width="48" alt="FastAPI"/>
-  <img src="https://skillicons.dev/icons?i=firebase" width="48" alt="Firebase"/>
-  <img src="https://skillicons.dev/icons?i=postgres" width="48" alt="Postgres"/>
-  <img src="https://skillicons.dev/icons?i=vercel" width="48" alt="Vercel"/>
-  <img src="https://skillicons.dev/icons?i=docker" width="48" alt="Docker"/>
-  <img src="https://skillicons.dev/icons?i=git" width="48" alt="Git"/>
-  <img src="https://skillicons.dev/icons?i=linux" width="48" alt="Linux"/>
-  <br/><sub>Node • FastAPI • Firebase • Postgres • Vercel • Docker • Git • Linux</sub>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/React-19.2-61DAFB?logo=react&logoColor=black" alt="React"/>
-  <img src="https://img.shields.io/badge/Next.js-15-black?logo=next.js" alt="Next.js"/>
-  <img src="https://img.shields.io/badge/Tailwind-4.0-38B2AC?logo=tailwindcss" alt="Tailwind"/>
-  <img src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi" alt="FastAPI"/>
-  <img src="https://img.shields.io/badge/Fastify-000000?logo=fastify" alt="Fastify"/>
-  <img src="https://img.shields.io/badge/Drizzle-ORM-C5F277" alt="Drizzle"/>
-  <img src="https://img.shields.io/badge/Google_ADK-Gemini-4285F4?logo=google" alt="ADK"/>
-</p>
-
-<p align="center">
-  <a href="https://github.com/Icedmist"><img src="https://github-readme-activity-graph.vercel.app/graph?username=Icedmist&theme=github-light&bg_color=ffffff&color=0e75b6&line=16A534&point=0e75b6&hide_border=true" width="100%" alt="activity graph — green line on blue points"/></a>
-</p>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0e75b6,100:16A534&height=2&animation=fadeIn" width="100%" alt="divider"/>
-
----
-
-## Why this way?
-
-<p align="center">
-  <picture><source media="(prefers-color-scheme: dark)" srcset="why-expanded-dark.svg"><source media="(prefers-color-scheme: light)" srcset="why-expanded-light.svg"><img src="why-expanded-dark.svg" width="100%" alt="Why this way? — expanded 4 pillars — Sub-second fresh, 10× cheaper, Explainable, Production-grade — spacious, simple examples"/></picture>
-</p>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:16A534,100:0e75b6&height=2&animation=fadeIn" width="100%" alt="divider"/>
-
----
-
-## What I've Built
-
-<p align="center"><a href="https://github.com/Icedmist?tab=repositories"><b>Working products — clone, run, ship →</b></a></p>
-
-<p align="center">
-  <picture><source media="(prefers-color-scheme: dark)" srcset="what-built-grid-dark.svg"><source media="(prefers-color-scheme: light)" srcset="what-built-grid-light.svg"><img src="what-built-grid-dark.svg" width="100%" alt="What I've Built — 8 products animated — device-beacon · gshsmb-hmis · nexafinal · Evergreeners · kana-dojo · propabridge · midnight-commits · gitledger — explainable simple"/></picture>
-</p>
-<p align="center">
-<sub>
-<a href="https://github.com/Icedmist/device-beacon">device-beacon</a> ·
-<a href="https://github.com/Icedmist/gshsmb-hmis">gshsmb-hmis</a> ·
-<a href="https://github.com/Icedmist/nexafinal">nexafinal</a> ·
-<a href="https://github.com/Icedmist/Evergreeners-web">Evergreeners</a> ·
-<a href="https://github.com/Icedmist/kana-dojo">kana-dojo</a> ·
-<a href="https://github.com/Icedmist/propabridge-adk">propabridge</a> ·
-<a href="https://github.com/Icedmist/midnight-commits">midnight</a> ·
-<a href="https://github.com/Icedmist/gitledger">gitledger</a>
-</sub>
-</p>
-
-<details>
-<summary><b>Details from READMEs</b> (click to expand)</summary>
-
-- **device-beacon** — *Street-level Wi-Fi BSSID → Apple DB + OSM (~50m), battery & power telemetry, anti-theft, proactive alerts. Zero-dep Python Telegram bot.*
-- **gshsmb-hmis** — *Board → Hospitals → Departments → Employees. Centralized HMIS for Gombe State. TypeScript.*
-- **nexafinal** — *React 19 · Vite 7 · Tailwind 4 · Firebase. Offline-first POS, multi-branch inventory, Paystack virtual accounts, CRM + RBAC.*
-- **Evergreeners-web** — *Digital garden, heatmap + streak, Better Auth + Drizzle + Postgres + Fastify.*
-- **kana-dojo** — *Aesthetic Japanese learning, Next.js + Vercel OSS, Duolingo/Monkeytype inspired.*
-- **propabridge-adk** — *Multilingual WhatsApp concierge (HA/YO/IG/Pidgin), Google ADK + Gemini + pgvector + MCP + Twilio — live traffic.*
-- **midnight-commits** — *Midnight Attendance: Streamlit + SQLite offline logger, Present/Absent/Late, live dashboard, CSV export.*
-- **gitledger** — *Git analytics ledger. TypeScript.*
-
-</details>
-
----
-
-<p align="center"><i>Let's build together</i></p>
-<p align="center">Building something? <b>Let's ship it.</b> DM <a href="https://www.linkedin.com/in/nasir-ibrahim-imam-403ba523b">@nasir-ibrahim</a> or <a href="mailto:talk2icedmist@gmail.com">email me</a>. ❄️</p>
-
----
-
-## Connect
-
-<table width="100%" border="0" cellspacing="0" cellpadding="6" role="presentation">
-<tr>
-<td align="center" valign="middle" width="25%">
-<a href="https://github.com/Icedmist" title="GitHub — @Icedmist" style="text-decoration:none;">
-<div style="background:#24292f; border:1px solid #30363d; border-radius:14px; padding:16px 14px; display:flex; align-items:center; gap:12px; height:72px; box-sizing:border-box;">
-<img src="https://cdn.simpleicons.org/github/white" width="28" height="28" alt="GitHub"/>
-<div style="text-align:left; line-height:1.1;">
-<div style="color:#ffffff; font-size:13px; font-weight:700; letter-spacing:0.5px;">GitHub</div>
-<div style="color:#8b949e; font-size:10px; letter-spacing:0.8px; margin-top:2px;">@ICEDMIST →</div>
-</div>
-</div>
-</a>
-</td>
-<td align="center" valign="middle" width="25%">
-<a href="https://www.linkedin.com/in/nasir-ibrahim-imam-403ba523b" title="LinkedIn — Nasir Ibrahim Imam" style="text-decoration:none;">
-<div style="background:#0A66C2; border:1px solid #084a8a; border-radius:14px; padding:16px 14px; display:flex; align-items:center; gap:12px; height:72px; box-sizing:border-box;">
-<img src="https://cdn.simpleicons.org/linkedin/white" width="28" height="28" alt="LinkedIn"/>
-<div style="text-align:left; line-height:1.1;">
-<div style="color:#ffffff; font-size:13px; font-weight:700; letter-spacing:0.5px;">LinkedIn</div>
-<div style="color:#cce6ff; font-size:10px; letter-spacing:0.8px; margin-top:2px;">NASIR →</div>
-</div>
-</div>
-</a>
-</td>
-<td align="center" valign="middle" width="25%">
-<a href="https://orcid.org/0009-0003-9321-2853" title="ORCID — 0009-0003-9321-2853" style="text-decoration:none;">
-<div style="background:#A6CE39; border:1px solid #7fa62a; border-radius:14px; padding:16px 14px; display:flex; align-items:center; gap:12px; height:72px; box-sizing:border-box;">
-<img src="https://cdn.simpleicons.org/orcid/white" width="28" height="28" alt="ORCID"/>
-<div style="text-align:left; line-height:1.1;">
-<div style="color:#0d1117; font-size:13px; font-weight:800; letter-spacing:0.5px;">ORCID</div>
-<div style="color:#2d3a0a; font-size:10px; letter-spacing:0.8px; margin-top:2px;">0009-0003-9321-2853 →</div>
-</div>
-</div>
-</a>
-</td>
-<td align="center" valign="middle" width="25%">
-<a href="https://Facebook.com/icedmist" title="Facebook — icedmist" style="text-decoration:none;">
-<div style="background:#1877F2; border:1px solid #0f5dc5; border-radius:14px; padding:16px 14px; display:flex; align-items:center; gap:12px; height:72px; box-sizing:border-box;">
-<img src="https://cdn.simpleicons.org/facebook/white" width="28" height="28" alt="Facebook"/>
-<div style="text-align:left; line-height:1.1;">
-<div style="color:#ffffff; font-size:13px; font-weight:700; letter-spacing:0.5px;">Facebook</div>
-<div style="color:#cce0ff; font-size:10px; letter-spacing:0.8px; margin-top:2px;">ICEDMIST →</div>
-</div>
-</div>
-</a>
-</td>
-</tr>
-</table>
-
-<p align="center">
-  <a href="https://github.com/Icedmist"><img src="https://img.shields.io/badge/GITHUB-%40ICEDMIST-16A534?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" alt="GITHUB @ICEDMIST green"/></a>
-  <a href="https://www.linkedin.com/in/nasir-ibrahim-imam-403ba523b"><img src="https://img.shields.io/badge/LINKEDIN-NASIR-0e75b6?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117" alt="LINKEDIN NASIR blue"/></a>
-  <a href="https://orcid.org/0009-0003-9321-2853"><img src="https://img.shields.io/badge/ORCID-0009--0003--9321--2853-16A534?style=for-the-badge&logo=orcid&logoColor=white&labelColor=0d1117" alt="ORCID green"/></a>
-  <a href="https://Facebook.com/icedmist"><img src="https://img.shields.io/badge/FACEBOOK-ICEDMIST-0e75b6?style=for-the-badge&logo=facebook&logoColor=white&labelColor=0d1117" alt="FACEBOOK blue"/></a>
-</p>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:16A534,100:0e75b6&height=2&animation=scaleIn" width="100%" alt="green-blue divider — same as top cards"/>
-
-<p align="center">
-  <a href="https://github.com/Icedmist"><img src="https://github-readme-stats.vercel.app/api?username=Icedmist&show_icons=true&theme=transparent&hide_border=true&title_color=16A534&text_color=0e75b6&icon_color=16A534&bg_color=0d1117&hide_border=true&border_radius=12" height="160" alt="stats — green-blue on dark"/></a>
-  <a href="https://github.com/Icedmist"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Icedmist&layout=compact&theme=transparent&hide_border=true&title_color=16A534&text_color=0e75b6&bg_color=0d1117&hide_border=true&border_radius=12" height="160" alt="langs — green-blue on dark"/></a>
-</p>
-<p align="center"><img src="https://streak-stats.demolab.com?user=Icedmist&theme=transparent&hide_border=true&background=0d1117&currStreakNum=16A534&sideNums=0e75b6&currStreakLabel=16A534&sideLabels=0e75b6&dates=8b949e&border=30363d" width="70%" alt="streak — green/blue on dark"/></p>
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg">
-    <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" width="100%" alt="Snake"/>
-  </picture>
-</p>
-<p align="center"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Icedmist&theme=transparent&no-bg=true&no-frame=true&column=6&rank=SECRET,SSS,SS,S,AAA,AA,A" width="100%" alt="trophy"/></a></p>
-
-<p align="center">
-  📝 <a href="https://www.linkedin.com/in/nasir-ibrahim-imam-403ba523b"><b>LinkedIn</b></a> ·
-  🐛 <a href="https://github.com/Icedmist?tab=repositories"><b>Repositories</b></a> ·
-  💬 <a href="mailto:talk2icedmist@gmail.com"><b>Say hi</b></a>
-</p>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:16A534,100:0e75b6&height=100&section=footer&text=❄️&fontSize=24&animation=fadeIn&reversal=true" width="100%" alt="green-blue footer wave"/>
-
-<p align="center"><sub>© Snow❄️ Icedmist — The Vendetta of a Gentleman Leaves no Man Standing</sub></p>
+![Visual community footer](./assets/community-footer.svg)
