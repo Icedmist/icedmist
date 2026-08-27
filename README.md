@@ -1,14 +1,14 @@
 ![Profile hero](./assets/profile-hero.svg)
 
-![Animated typing introduction](https://readme-typing-svg.demolab.com?font=DM+Mono&size=20&duration=3200&pause=900&color=F26938&center=false&vCenter=true&width=700&lines=I%20make%20thoughtful%20tools%20for%20noisy%20problems.)
+![Animated typing introduction](https://readme-typing-svg.demolab.com?font=DM+Mono&size=20&duration=3200&pause=900&color=F26938&center=false&vCenter=true&width=700&lines=Ard%20Ax%20Nubila%20Tendens)
 
-# Hey, I'm Maya Okafor 👋
+# Hey, I'm Snow❄️ 👋
 
-> I make thoughtful tools for noisy problems.
+> Ard Ax Nubila Tendens
 
-Product engineer exploring the space between useful software, good questions, and a little bit of magic.
+ The Lonely Peak Needs No Title
 
-📍 Lagos, Nigeria · [GitHub](https://github.com/maya-builds)
+📍 Star System 1058 · [GitHub](https://github.com/Icedmist)
 
 ![Visual process divider](./assets/process-flow.svg)
 
@@ -20,17 +20,23 @@ Product engineer exploring the space between useful software, good questions, an
 
 ![Visual project showcase](./assets/projects-showcase.svg)
 
-### 1. signal-garden
+### 1.  
 
-A tiny observability layer for calm, useful software.
+ .
 
-**TypeScript · Next.js**
+****
 
-### 2. field-notes
+### 2.  
 
-A searchable notebook for ideas that want to become real.
+ 
 
-**Python · SQLite**
+****
+
+### 3.  
+
+ 
+
+** **
 
 ## Contribution trail
 
@@ -38,6 +44,6 @@ A searchable notebook for ideas that want to become real.
 
 ## Find me
 
-[GitHub](https://github.com/maya-builds) · [LinkedIn](https://linkedin.com/in/maya-builds) · hello@example.com
+[GitHub](https://github.com/Icedmist) · [LinkedIn](https://linkedin.com/in/Icedmist) · hello@example.com
 
 ![Visual community footer](./assets/community-footer.svg)
